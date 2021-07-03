@@ -7,3 +7,9 @@ ol{
     margin:5px;
     background-color: beige;
 }
+code{
+    background-color: rgba(97, 153, 134, 0.959);
+    border: 1px solid rgba(97, 153, 134, 0.959);
+    border-radius: 5px;
+    padding: 2px;
+}
